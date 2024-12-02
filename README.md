@@ -3,7 +3,9 @@ My solutions for 2024's Advent of Code
 
 ### Day 1
 > Part 1 time = 14:55, Rank 5629
+
 > Part 2 time = 15:55, Rank 4413
+
 >(Probably worse than it needs to be I spent maybe 12ish minutes on a compiled Haskell solution but I am not good enough for it rn)
 
 1.repl.py is just the entirety of my repl for day 1
