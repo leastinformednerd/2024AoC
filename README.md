@@ -21,3 +21,12 @@ A better python solution is probably (given that itertools has been unqualified 
 And for part two we can repeat
 
 \>\>\> sum(a*count(a,r) for a in l)
+
+### Day 2
+> Part 1 time = 9:34, Rank 2436
+
+> Part 2 time = 1:17:46, Rank 10155
+
+> Needless to say I'm going to end it. It should have taken 5 minutes to do part 2 after part 1, but I have the brain of a mewling infant
+
+I can't provide REPL logs since they exceeded the bounds of the terminal and were lost
