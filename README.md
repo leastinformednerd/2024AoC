@@ -30,3 +30,12 @@ And for part two we can repeat
 > Needless to say I'm going to end it. It should have taken 5 minutes to do part 2 after part 1, but I have the brain of a mewling infant
 
 I can't provide REPL logs since they exceeded the bounds of the terminal and were lost
+
+An actually servicable Haskell solution is provided (in 2.good.hs)
+
+It took a while because I made some bad assumptions :)
+
+Additionally I began part 1 with a clone of my bad Python part 1 solution
+
+Both parts were improved (and part 2 was originally solved in Haskell) by performing the checks in
+parallel rather than doing them in series
