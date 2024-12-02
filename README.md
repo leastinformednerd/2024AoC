@@ -10,7 +10,11 @@ My solutions for 2024's Advent of Code
 
 A better python solution is probably (given that itertools has been unqualified imported and that input is in `text`):
 \>\>\> t=list(batched(map(int,text.split()),2))
+
 \>\>\> l,r=[q[0] for q in t],[q[1] for q in t]
+
 \>\>\> sum(abs(a-b) for a,b in zip(sorted(l), sorted(r)))
+
 And for part two we can repeat
+
 \>\>\> sum(a*count(a,r) for a in l)
