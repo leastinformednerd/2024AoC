@@ -37,5 +37,15 @@ It took a while because I made some bad assumptions :)
 
 Additionally I began part 1 with a clone of my bad Python part 1 solution
 
-Both parts were improved (and part 2 was originally solved in Haskell) by performing the checks in
+Both parts were improved (and part 2 was solved in Haskell originally) by performing the checks in
 parallel rather than doing them in series
+
+### Day 3
+> Part 1 time = 8:23, Rank 3314
+
+> Part 2 time = 20:36, Rank 3745
+
+> Better than yesterday. Part 2 had a natural continuation from part 2 that I knew how to do
+> but tested it incorrectly so didn't pursue and wasted ~5 minutes handwriting a specialist parser
+
+Lost the repl logs :( - Provided is a file (3.py) containing a solution that mirrored my REPL solution
