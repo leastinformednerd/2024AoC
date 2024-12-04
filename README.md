@@ -49,3 +49,11 @@ parallel rather than doing them in series
 > but tested it incorrectly so didn't pursue and wasted ~5 minutes handwriting a specialist parser
 
 Lost the repl logs :( - Provided is a file (3.py) containing a solution that mirrored my REPL solution
+
+### Day 4
+> Part 1 time = 49:44, Rank 9280
+
+> Part 2 time =  1:51:05, Rank 12415
+
+> :( Needless to say I'm not happy with this. Part one is whatever I got it easily when I switched to Haskell
+> Part 2 is a repeat of day 2
