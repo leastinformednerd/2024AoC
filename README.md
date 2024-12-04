@@ -58,3 +58,7 @@ There is also a horrid cursed solution, plus an attempted golf of that solution 
 
 > :( Needless to say I'm not happy with this. Part one is whatever I got it easily when I switched to Haskell
 > Part 2 is a repeat of day 2
+
+Provided is my soltion for both part 1 and part 2. I've made a minor attempt to clean up unused / commented out funtions
+God part 2 solution is actually so ugly, although it is kind of funny I'm pretty sure at some point
+I am just undoing previous operations :/
