@@ -49,6 +49,7 @@ parallel rather than doing them in series
 > but tested it incorrectly so didn't pursue and wasted ~5 minutes handwriting a specialist parser
 
 Lost the repl logs :( - Provided is a file (3.py) containing a solution that mirrored my REPL solution
+There is also a horrid cursed solution, plus an attempted golf of that solution that  I got distracted from
 
 ### Day 4
 > Part 1 time = 49:44, Rank 9280
