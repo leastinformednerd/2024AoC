@@ -62,3 +62,14 @@ There is also a horrid cursed solution, plus an attempted golf of that solution 
 Provided is my soltion for both part 1 and part 2. I've made a minor attempt to clean up unused / commented out funtions
 God part 2 solution is actually so ugly, although it is kind of funny I'm pretty sure at some point
 I am just undoing previous operations :/
+
+### Day 5
+> Part 1 time = 31:08, Rank 6644
+
+> Part 2 time = 1:07:29, Rank 7716
+
+> Again somewhat unhappy with this. REPL was a mistake. Swtiching to a .py file made things a lot better.
+> Part 2 I just massively over complicated it :( -  Also apparently python has builtin topological sort.
+> Which is irelevant since it's actually not exactly topological sort and has cycles but a n^2 naive algo beats it.
+> I took two long to pull the trigger since I was so worried that an n^2 algo would be too slow which is ridiculous.
+> The input size is tiny and n^2 isn't even that bad?!?!? IDK what I was worried about
