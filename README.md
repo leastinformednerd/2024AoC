@@ -81,4 +81,4 @@ I am just undoing previous operations :/
 
 > Almost cracked 1k for part 2. Would have been nice but oh well. My part 2 solution is very cooked.
 > I did almost cancel it partway through for runtime concerns since I thought of a better solution but this works.
-> That better solution will be included
+> That better solution will be included (if I can be bothered)
