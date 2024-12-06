@@ -73,3 +73,12 @@ I am just undoing previous operations :/
 > Which is irelevant since it's actually not exactly topological sort and has cycles but a n^2 naive algo beats it.
 > I took two long to pull the trigger since I was so worried that an n^2 algo would be too slow which is ridiculous.
 > The input size is tiny and n^2 isn't even that bad?!?!? IDK what I was worried about
+
+### Day 6
+> Part 1 time = 17:09, Rank 2847
+
+> Part 2 time = 25:34, Rank 1174
+
+> Almost cracked 1k for part 2. Would have been nice but oh well. My part 2 solution is very cooked.
+> I did almost cancel it partway through for runtime concerns since I thought of a better solution but this works.
+> That better solution will be included
