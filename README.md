@@ -82,3 +82,16 @@ I am just undoing previous operations :/
 > Almost cracked 1k for part 2. Would have been nice but oh well. My part 2 solution is very cooked.
 > I did almost cancel it partway through for runtime concerns since I thought of a better solution but this works.
 > That better solution will be included (if I can be bothered)
+
+My solution is provided although it's of dubious quality
+
+### Day 7
+> Part 1 time = 24:48, Rank 4534
+
+> Part 2 time = 40:06, Rank 4902
+
+> I should have got this much faster. Two main holdups, first of which is that I thought that the problem statement permitted `-` (fine) and `/` (really not on bigints).
+> This meant my solution took much longer than it should have to finish.
+> And then on part 2 I copied my code over from part 1 (it's a 6 character change of logic). But I manually changed all the parts that reffered to part1 with part2.
+> My solution is recursive and used many callsites. I missed some on account of the whole manual thing;
+> and wasted ten minutes. :/
