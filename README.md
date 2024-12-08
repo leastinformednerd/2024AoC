@@ -95,3 +95,12 @@ My solution is provided although it's of dubious quality
 > And then on part 2 I copied my code over from part 1 (it's a 6 character change of logic). But I manually changed all the parts that reffered to part1 with part2.
 > My solution is recursive and used many callsites. I missed some on account of the whole manual thing;
 > and wasted ten minutes. :/
+
+### Day 8
+> Part 1 time = 46:58, Rank 6122
+
+> Part 2 time = 51:45, Rank 4982
+
+> I originally had open("8.input").readlines()
+> when I wanted open("8.input").read().splitlines() (the difference being the second doesn't include \n)
+> This messed up my bounds checking and lost me literally 30 minutes. Yay!!! I'm so stupid!!!
